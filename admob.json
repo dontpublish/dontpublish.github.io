@@ -1,0 +1,30 @@
+{
+   "sda":[
+      {
+         "key":"adOlTNsgRRs2Tfct5kHvUVYZ+zpkI65fDZtaAxziiXbBCZyXhZP7CTxPX9dvXyEe\n"
+      },
+      {
+         "key":"adOlTNsgRRs2Tfct5kHvUQ7qpVr5El50ogVz3dnTj5drNhlNL0kVBAkfd8wOgmbU\n"
+      },
+      {
+         "key":"adOlTNsgRRs2Tfct5kHvUWCFBfIW+GQOxpdG9mOgU7/BaKU5NgiXE9bqe2ov1yo7\n"
+      },
+      {
+         "key":"adOlTNsgRRs2Tfct5kHvURagpqHpUwrQvWz7Fo34J94=\n"
+      }
+   ],
+   "lismenu":[
+      {
+         "menu":"Static URL 1",
+         "menuurl":"7FmeuCtKWsT+CzvynsrSmkx4uBko32Lcjf2R/BxeINsN4HGsxc/4JDx/MoIZTNepPHqcJD5nigDL\ncBg9W32M/w==\n"
+      },
+      {
+         "menu":"Static URL 2",
+         "menuurl":"7FmeuCtKWsT+CzvynsrSmkx4uBko32Lcjf2R/BxeINv39jgJPz6occcMK5H+xbHc/VtCtF5PTSyV\nKJNP+kZp5A==\n"
+      },
+      {
+         "menu":"Static URL 3",
+         "menuurl":"7FmeuCtKWsT+CzvynsrSmkx4uBko32Lcjf2R/BxeINs6H0FROHM8zl0z67r8n+LzJWLZu+nsty3v\nB+1RxH0v7w==\n"
+      }
+   ]
+}
